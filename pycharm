@@ -1,1 +1,10 @@
 
+How to  run the bash scripting file
+
+
+1:
+chmod 755 filename.sh
+./filename.sh
+
+
+//and using c to manipulate easily using system()
